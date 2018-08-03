@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html></html>
+<head></head>
+<title></title>
+<link rel= stylesheet href= file name.css>
+</head>
+<body></body>
+</body>
+<html
+body {
+
+    background-color:black;
+    color: azure;
+    font-size: 1.1em;
+}
+h1 {
+    color: coral;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: orange;
+}
